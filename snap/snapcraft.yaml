@@ -42,7 +42,6 @@ parts:
     stage:
       - usr
     stage-packages:
-      - yad
       - libfreetype6
 
     build-packages:
