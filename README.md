@@ -5,9 +5,6 @@ Snap package with winbox
 
 [![winbox](https://snapcraft.io/winbox/badge.svg)](https://snapcraft.io/winbox) [![winbox](https://snapcraft.io/winbox/trending.svg?name=0)](https://snapcraft.io/winbox)
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-
 Installation
 ------------
 
